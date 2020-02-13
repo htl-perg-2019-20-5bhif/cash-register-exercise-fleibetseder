@@ -1,0 +1,8 @@
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\bin\Debug\netstandard2.1\Shared.deps.json
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\bin\Debug\netstandard2.1\Shared.dll
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\obj\Debug\netstandard2.1\Shared.csprojAssemblyReference.cache
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfoInputs.cache
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfo.cs
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\bin\Debug\netstandard2.1\Shared.pdb
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\obj\Debug\netstandard2.1\Shared.dll
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_5_CashRegister\Backend\Shared\obj\Debug\netstandard2.1\Shared.pdb
